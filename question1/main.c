@@ -1,6 +1,6 @@
 //
 //  main.c
-//  practice c
+//  question1
 //
 //  Created by apple on 08/05/21.
 //
@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!gunjan\n");
+    printf("Hello, World!\n");
     return 0;
 }
